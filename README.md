@@ -1,9 +1,6 @@
 # BRAVE-project
-Thesis Project
 
-**Project Topic:**  
-
-**The BRAVE Project** combines **virtual reality (VR)** and **artificial intelligence (AI)** to support phobia treatment. The project is divided into two main parts:  
+**The BRAVE Project** is our thesis project. It combines **virtual reality (VR)** and **artificial intelligence (AI)** to support phobia treatment. The project is divided into two main parts:  
 
 - **Virtual Reality (VR):** Development of immersive environments designed to expose users to their phobias.  
 - **Artificial Intelligence (AI):** Creation of a system with two components:  
